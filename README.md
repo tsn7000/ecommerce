@@ -34,4 +34,4 @@ This project analyzes an Indian E-Commerce Customer Behavior dataset using MySQL
 - GitHub
 
 ## Author
-Tejas Sonawane
+Tejas Nagawade
